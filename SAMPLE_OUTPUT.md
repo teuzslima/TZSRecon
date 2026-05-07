@@ -1,0 +1,8 @@
+# Sample Output
+
+```text
+> SYSTEM STATUS
+RECON ENGINE : ONLINE
+TARGET       : 127.0.0.1
+SCAN COMPLETED
+```
